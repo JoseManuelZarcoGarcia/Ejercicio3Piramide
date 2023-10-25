@@ -1,0 +1,14 @@
+C:\Users\csi22-jzarcia\source\repos\Ejercicio3Piramide\bin\Debug\net6.0\Ejercicio3Piramide.exe
+C:\Users\csi22-jzarcia\source\repos\Ejercicio3Piramide\bin\Debug\net6.0\Ejercicio3Piramide.deps.json
+C:\Users\csi22-jzarcia\source\repos\Ejercicio3Piramide\bin\Debug\net6.0\Ejercicio3Piramide.runtimeconfig.json
+C:\Users\csi22-jzarcia\source\repos\Ejercicio3Piramide\bin\Debug\net6.0\Ejercicio3Piramide.dll
+C:\Users\csi22-jzarcia\source\repos\Ejercicio3Piramide\bin\Debug\net6.0\Ejercicio3Piramide.pdb
+C:\Users\csi22-jzarcia\source\repos\Ejercicio3Piramide\obj\Debug\net6.0\Ejercicio3Piramide.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\csi22-jzarcia\source\repos\Ejercicio3Piramide\obj\Debug\net6.0\Ejercicio3Piramide.AssemblyInfoInputs.cache
+C:\Users\csi22-jzarcia\source\repos\Ejercicio3Piramide\obj\Debug\net6.0\Ejercicio3Piramide.AssemblyInfo.cs
+C:\Users\csi22-jzarcia\source\repos\Ejercicio3Piramide\obj\Debug\net6.0\Ejercicio3Piramide.csproj.CoreCompileInputs.cache
+C:\Users\csi22-jzarcia\source\repos\Ejercicio3Piramide\obj\Debug\net6.0\Ejercicio3Piramide.dll
+C:\Users\csi22-jzarcia\source\repos\Ejercicio3Piramide\obj\Debug\net6.0\refint\Ejercicio3Piramide.dll
+C:\Users\csi22-jzarcia\source\repos\Ejercicio3Piramide\obj\Debug\net6.0\Ejercicio3Piramide.pdb
+C:\Users\csi22-jzarcia\source\repos\Ejercicio3Piramide\obj\Debug\net6.0\Ejercicio3Piramide.genruntimeconfig.cache
+C:\Users\csi22-jzarcia\source\repos\Ejercicio3Piramide\obj\Debug\net6.0\ref\Ejercicio3Piramide.dll
